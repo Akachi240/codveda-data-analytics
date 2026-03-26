@@ -1,11 +1,11 @@
 # Codveda Technologies - Data Analytics Internship
 
 ## About
-This repository contains my Level 1 Data Analytics projects completed 
+This repository contains my  Data Analytics projects completed 
 during my internship at Codveda Technologies.
 
 ## Projects
-
+### LEVEL 1
 ### Task 1: Data Cleaning and Preprocessing
 - Loaded and labeled the Boston House Pricing dataset
 - Checked for missing values and duplicates
@@ -22,6 +22,8 @@ during my internship at Codveda Technologies.
 - Pandas
 - Matplotlib
 - Seaborn
+
+### LEVEL 2
 
 ## Key Findings
 - Houses with more rooms tend to cost more
