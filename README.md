@@ -23,10 +23,13 @@ during my internship at Codveda Technologies.
 - Matplotlib
 - Seaborn
 
-### LEVEL 2
-
 ## Key Findings
 - Houses with more rooms tend to cost more
+
+  
+### LEVEL 2
+
+
 - Higher crime areas have lower house prices
 - Newer houses are generally more expensive
 
