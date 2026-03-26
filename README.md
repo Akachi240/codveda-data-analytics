@@ -16,23 +16,19 @@ during my internship at Codveda Technologies.
 - Bar chart: Average house price by number of rooms
 - Scatter plot: Crime rate vs house price
 - Line chart: House age vs average price
+- 
+### Key Findings
+- Houses with more rooms tend to cost more
+- Higher crime areas have lower house prices
+- Newer houses are generally more expensive
+- 
+### LEVEL 2
 
 ## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
-
-## Key Findings
-- Houses with more rooms tend to cost more
-
-  
-### LEVEL 2
-
-
-- Higher crime areas have lower house prices
-- Newer houses are generally more expensive
-
 ## Author
 Chukwuma Akachi Blessing
 
