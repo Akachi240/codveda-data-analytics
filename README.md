@@ -1,11 +1,11 @@
 # Codveda Technologies - Data Analytics Internship
 
 ## About
-This repository contains my Level 1 Data Analytics projects completed 
+This repository contains my  Data Analytics projects completed 
 during my internship at Codveda Technologies.
 
 ## Projects
-
+### LEVEL 1
 ### Task 1: Data Cleaning and Preprocessing
 - Loaded and labeled the Boston House Pricing dataset
 - Checked for missing values and duplicates
@@ -16,18 +16,19 @@ during my internship at Codveda Technologies.
 - Bar chart: Average house price by number of rooms
 - Scatter plot: Crime rate vs house price
 - Line chart: House age vs average price
+- 
+### Key Findings
+- Houses with more rooms tend to cost more
+- Higher crime areas have lower house prices
+- Newer houses are generally more expensive
+- 
+### LEVEL 2
 
 ## Tools Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
-
-## Key Findings
-- Houses with more rooms tend to cost more
-- Higher crime areas have lower house prices
-- Newer houses are generally more expensive
-
 ## Author
 Chukwuma Akachi Blessing
 
